@@ -1,0 +1,20 @@
+/*Imagem de pano de fundo*/
+body {
+    background-image: url('background.jpg');
+
+}
+/*Rodapé HTML*/
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: auto;  
+    text-align: right;
+}
+
+/*Estilizando a tabela de pessoas*/
+#tblList thead{
+    background: #3B88C3;
+    color: #FFF;
+    width:100%;
+}
